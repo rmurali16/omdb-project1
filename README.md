@@ -1,7 +1,7 @@
 # omdb-project1
 
 ## About
-This Repository is a compilation of the coding exercises covered for API Testing using Rest Assured Library. It walks through the simple ways of composing HTTP requests in Rest Assured. The repository is to be used as a learning supplement to the code exercises covered in the video series. It will be fruitful if the code is tried out first and then referred in case the output doesn't match the expected values.
+This Repository is a compilation of the coding exercises covered for API Testing using Rest Assured Library. 
 
 More information in this webpage: <http://rest-assured.io/>
 
@@ -14,8 +14,6 @@ Rest Assured Github repository: <https://github.com/rest-assured/rest-assured>
 * [Eclipse / IntelliJ IDE installed](https://www.toolsqa.com/mobile-automation/appium/install-eclipse-ide-and-set-up-a-project/) - IntelliJ preferred
 * Create Maven project in IntelliJ -https://www.jetbrains.com/idea/guide/tutorials/working-with-maven/creating-a-project/
 * Make sure you have TestNG, RestAssured downloaded and in the dependencies. 
-
-
 
 
 ## API
@@ -32,7 +30,7 @@ API key generated from omdbapi.com
 * **GET**  ?t=titleofthemovie
 
 ## Framework
-
+I utilized TestNG with RestAssured couples with Maven
 ### Structure
 
 This project is a standard Maven Java project with src folders and pom.xml
