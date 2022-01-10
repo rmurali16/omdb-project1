@@ -27,7 +27,7 @@ The API used for these classes to practice is based on very easy to use [OMDB AP
 API key generated from omdbapi.com
 
 ##### Query Params
-* ****  ?i=imdbId
+* **GET**  ?i=imdbId
 * **GET**  ?s=searchtitle
 * **GET**  ?t=titleofthemovie
 
