@@ -42,7 +42,8 @@ This project is a standard Maven Java project with src folders and pom.xml
 `src/test/java/` package contains all the tests requested as part of the coding exerise.
 
 ### Installation
-`mvn clean install` To install the project and it's dependencies 
+`mvn clean install` To install the project 
+and To run the test make sure you have `mvn clean test`
 
 ## Help
 If you have any questions, please feel free to contact me
